@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkingWithMultipleTable_Prod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a3a63ec6aea8801eb654dd8afbc5305a5521d1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkingWithMultipleTable_Prod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkingWithMultipleTable_Prod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
